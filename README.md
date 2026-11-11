@@ -138,6 +138,7 @@ Information gathering is an important part of cybersecurity: even before trying 
 **Kolawole Asmot Omowumi**
 
 Cybersecurity Intern, [B084]
+
 LinkedIn: <https://www.linkedin.com/in/kolawole-omolola-8490033a7>
 
 **Program:** Cybersecurity program at Networkwalks | **Week:** 02
